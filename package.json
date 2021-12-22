@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "server": "yarn --cwd server start",
+    "client": "nodemon src/index.js",
+    "start": "concurrently \"yarn server\" \"yarn client\""
   },
   "dependencies": {
     "concurrently": "6.5.1"
