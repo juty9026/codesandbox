@@ -2,10 +2,11 @@
   "name": "messenger",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "license": "MIT",
   "scripts": {
     "server": "yarn --cwd server start",
-    "client": "nodemon src/index.js",
+    "client": "yarn --cwd client start",
+    "client-install": "yarn --cwd client install",
     "start": "concurrently \"yarn server\" \"yarn client\""
   },
   "dependencies": {
