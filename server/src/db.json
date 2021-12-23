@@ -9,9 +9,9 @@
   "chatRooms": [{ "id": 1, "name": "FAQ" }],
   "chatMessages": [
     { "id": 1, "chatRoomId": 1, "senderId": 2, "text": "blahblah" },
-    { "id": 1, "chatRoomId": 1, "senderId": 1, "text": "blahblah1" },
-    { "id": 1, "chatRoomId": 1, "senderId": 1, "text": "blahblah2" },
-    { "id": 1, "chatRoomId": 1, "senderId": 1, "text": "blahblah3" },
-    { "id": 1, "chatRoomId": 1, "senderId": 1, "text": "blahblah4" }
+    { "id": 2, "chatRoomId": 1, "senderId": 1, "text": "blahblah1" },
+    { "id": 3, "chatRoomId": 1, "senderId": 1, "text": "blahblah2" },
+    { "id": 4, "chatRoomId": 1, "senderId": 1, "text": "blahblah3" },
+    { "id": 5, "chatRoomId": 1, "senderId": 1, "text": "blahblah4" }
   ]
 }
