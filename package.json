@@ -4,10 +4,10 @@
   "description": "",
   "license": "MIT",
   "scripts": {
+    "start": "concurrently \"yarn server\" \"yarn client\"",
     "server": "yarn --cwd server start",
     "client": "yarn --cwd client start",
-    "client-install": "yarn --cwd client install",
-    "start": "concurrently \"yarn server\" \"yarn client\""
+    "client-install": "yarn --cwd client install"
   },
   "dependencies": {
     "concurrently": "6.5.1"
