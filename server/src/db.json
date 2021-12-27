@@ -8,10 +8,85 @@
   ],
   "chatRooms": [{ "id": 1, "name": "FAQ" }],
   "chatMessages": [
-    { "id": 1, "chatRoomId": 1, "senderId": 2, "text": "blahblah" },
-    { "id": 2, "chatRoomId": 1, "senderId": 1, "text": "blahblah1" },
-    { "id": 3, "chatRoomId": 1, "senderId": 1, "text": "blahblah2" },
-    { "id": 4, "chatRoomId": 1, "senderId": 1, "text": "blahblah3" },
-    { "id": 5, "chatRoomId": 1, "senderId": 1, "text": "blahblah4" }
+    { "id": 1, "chatRoomId": 1, "senderId": 2, "text": "What is Lorem Ipsum?" },
+    {
+      "id": 2,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 3,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 4,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    { "id": 5, "chatRoomId": 1, "senderId": 3, "text": "Why do we use it?" },
+    {
+      "id": 6,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 7,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    },
+    {
+      "id": 8,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
+    },
+    {
+      "id": 9,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 10,
+      "chatRoomId": 1,
+      "senderId": 4,
+      "text": "Where does it come from?"
+    },
+    {
+      "id": 11,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Vivamus condimentum ipsum sit amet varius vulputate."
+    },
+    {
+      "id": 12,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Fusce vel est placerat mauris eleifend fringilla eget ut odio."
+    },
+    {
+      "id": 13,
+      "chatRoomId": 1,
+      "senderId": 5,
+      "text": "Where can I get some?"
+    },
+    {
+      "id": 14,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Curabitur a diam suscipit, sodales lorem nec, varius tortor."
+    },
+    {
+      "id": 15,
+      "chatRoomId": 1,
+      "senderId": 1,
+      "text": "Suspendisse tincidunt libero vitae sem luctus vulputate."
+    }
   ]
 }
